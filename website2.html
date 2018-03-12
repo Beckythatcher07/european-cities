@@ -2,17 +2,37 @@
 <html>
   <head>
     <title>My First Page</title>
-    <link rel="stylesheet" type="text/css" href="styles2.css">
+    <link rel="stylesheet" type="text/css" href="styles3.css">
+    <style>
+      .grid-container {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        grid-template-rows: 300px 300px 300px;
+        grid-gap: 10px;
+        padding: 10px;
+      }
+      .grid-container>div {
+        text-align: center;
+        padding:20px 0;
+        font-size: 30px;
+        color: Snow
+      }
+    </style>
   </head>
       <body>
-        <h1>European Cities</h1>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-          <p1>
-          Edinburgh City
-          </p1>
+        <h1>European Capital Cities</h1>
+
+          <div class="grid-container">
+            <div class="item1">Edinburgh</div>
+            <div class="item2">London</div>
+            <div class="item3">Paris</div>
+            <div class="item4">Amsterdam</div>
+            <div class="item5">Budapest</div>
+            <div class="item6">Rome</div>
+            <div class="item7">Athens</div>
+            <div class="item8">Berlin</div>
+            <div class="item9">Madrid</div>
+          </div>
+
       </body>
 </html>
