@@ -1,0 +1,55 @@
+body {
+  background-color: Thistle;
+}
+
+h1 {
+      color: Snow;
+      text-align:center;
+      border-style:double;
+      border-color: Snow;
+}
+
+.item1 {
+  background-image: url(edinburgh.jpg);
+  background-size: 550px 300px
+}
+
+.item2 {
+  background-image: url(london.jpg);
+  background-size: 550px 300px
+}
+
+.item3 {
+  background-image: url(paris.jpg);
+  background-size: 550px 300px
+}
+
+.item4 {
+  background-image: url(amsterdam.jpg);
+  background-size: 550px 300px
+}
+
+.item5 {
+  background-image: url(budapest.jpg);
+  background-size: 550px 300px
+}
+
+.item6 {
+  background-image: url(rome.jpg);
+  background-size: 550px 300px
+}
+
+.item7 {
+  background-image: url(athens.jpg);
+  background-size: 550px 300px
+}
+
+.item8 {
+  background-image: url(berlin.jpg);
+  background-size: 550px 300px
+}
+
+.item9 {
+  background-image: url(madrid.jpg);
+  background-size: 550px 300px
+}
