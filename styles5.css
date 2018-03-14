@@ -7,7 +7,7 @@ h1 {
       text-align:center;
       border-style:double;
       border-color: Snow;
-      font-family: system-ui;
+      font-family: "courier new", monospace;
 }
 
 {
@@ -17,7 +17,7 @@ h1 {
 body {
     background-color: Thistle;
     padding: 20px;
-    font-family: Arial;
+    font-family: "courier new", monospace;
 }
 
 .main {
