@@ -27,7 +27,13 @@ body {
 
 h1 {
     font-size: 50px;
+    color: Snow
     word-break: break-all;
+}
+
+h2 {
+    font-size: 50px
+    color: Snow
 }
 
 .row {
