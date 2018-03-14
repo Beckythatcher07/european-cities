@@ -27,13 +27,13 @@ body {
 
 h1 {
     font-size: 50px;
-    color: Snow
+    color: Snow;
     word-break: break-all;
 }
 
 h2 {
-    font-size: 50px
-    color: Snow
+    font-size: 30px;
+    color: Snow;
 }
 
 .row {
@@ -41,15 +41,16 @@ h2 {
 }
 
 
-.row,
+/* .row,
 .row > .column {
     padding: 8px;
-}
+} */
 
 
 .column {
     float: left;
-    width: 25%;
+    width: 23%;
+    margin: 1%;
 }
 
 
