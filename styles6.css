@@ -8,6 +8,11 @@ body {
   margin-bottom: 0px;
 }
 
+p1 {
+  color: Snow;
+  font-family: "courier new", monospace;
+}
+
 h1 {
       color: Snow;
       text-align:center;
